@@ -1,0 +1,29 @@
+body{
+    width: 130px;
+    margin: 20px 10px 20px 20px;
+    display: block;
+    
+}
+
+
+.timer{
+    width: 30px;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+
+#setting{
+    margin: 8px 5px 2px 2px;
+}
+
+button{
+    margin: 0px 0px 2px 2px;
+}
+
+#up{
+    margin: 8px 5px 0px 0px;
+    font-size: 25px;
+    text-align: center; 
+}
